@@ -16,6 +16,10 @@ This project is registered on PyPi as django-cas-client.  To install::
 
     pip install django-cas-client==1.2.0
 
+Install the latest code:
+
+    pip install https://github.com/mkoskela/django-cas/archive/master.zip
+
 ### Add to INSTALLED_APPS
 
     INSTALLED_APPS = (
